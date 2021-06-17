@@ -1,0 +1,10 @@
+3. Jelaskan apa yang anda tau tentang Git
+   Perangkat lunak pengendali versi atau proyek manajemen kode perangkat lunak
+
+4. Jelaskan apa yang anda tau tentang Docker
+  sistem operasi untuk kontainer. Mirip dengan cara mesin virtual memvirtualisasi (menghilangkan kebutuhan untuk secara langsung mengelola) 
+  perangkat keras server, kontainer memvirtualisasi sistem operasi server.
+
+5. Jelaskan apa yang anda tau tentang Kubernetes
+   platform open-source yang digunakan untuk melakukan manajemen workloads aplikasi yang dikontainerisasi, serta menyediakan konfigurasi dan 
+   otomatisasi secara deklaratif. Kubernetes berada di dalam ekosistem yang besar dan berkembang cepat.
