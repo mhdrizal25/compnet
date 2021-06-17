@@ -1,0 +1,10 @@
+<?php  
+$a = 'compnet';
+
+if (strpos($a, 'compnet') !== false) {
+    echo 'Nama Perusahaan Kita'; // return true
+}
+else {
+    echo 'Bukan Nama Perusahaan Kita';
+}
+?>
